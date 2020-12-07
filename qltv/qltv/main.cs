@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace qlsach
+namespace qltv
 {
-    public partial class loaisach : Form
+    public partial class main : Form
     {
-        public loaisach()
+        public main()
         {
             InitializeComponent();
         }

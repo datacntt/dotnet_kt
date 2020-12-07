@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace qlsach
+namespace qltv
 {
-    public partial class QLthuvien : Form
+    public partial class sach : Form
     {
-        public QLthuvien()
+        public sach()
         {
             InitializeComponent();
         }

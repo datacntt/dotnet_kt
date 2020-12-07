@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace qlsach.Properties
+namespace qltv.Properties
 {
 
 
